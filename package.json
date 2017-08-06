@@ -1,0 +1,23 @@
+{
+  "name": "slapp.io",
+  "version": "0.0.2",
+  "description": "A client plugin that publishes and pings your service to slapp.io",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitramtj/slapp.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nitramtj/slapp.io/issues"
+  },
+  "homepage": "https://github.com/Nitramtj/slapp.io#readme"
+}
