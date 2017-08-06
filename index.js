@@ -29,7 +29,7 @@ class Service {
   startHeartbeat() {
     if (this.interval != null) {
       this.interval = setInterval(() => {
-        this.ping(finalConfig);
+        this.ping();
       }, 1000 * 60);
     }
   }
