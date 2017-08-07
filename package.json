@@ -1,6 +1,6 @@
 {
   "name": "slapp.io",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A client plugin that publishes and pings your service to slapp.io",
   "main": "index.js",
   "dependencies": {
